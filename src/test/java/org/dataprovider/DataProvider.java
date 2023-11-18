@@ -26,7 +26,7 @@ public  void aa(String Username,String Password)
 @org.testng.annotations.DataProvider(name="loginData")
 private Object[][] data(){
 
-	Object a[] []= new Object[][]{{"shanmuhapriya","123"},{"mithran","123"}};
+	Object a[] []= new Object[][]{{"shanmuhapriya","123"},{"s.mithran","123"}};
 	return a;
 	}
 
